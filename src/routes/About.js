@@ -1,9 +1,9 @@
 import React from "react";
-import Hero from "../components/Hero";
+import Hero from "../components/Hero.jsx";
 import image from "../assets/2.jpg"
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
-import AboutUs from "../components/AboutsUs";
+import Navbar from "../components/Navbar.jsx";
+import Footer from "../components/Footer.jsx";
+import AboutUs from "../components/AboutsUs.jsx";
 function About(){
     return <div>
         <Navbar></Navbar>

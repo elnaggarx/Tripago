@@ -1,11 +1,9 @@
 import React from "react";
-import Navbar from "./components/Navbar";
-import Home from "./routes/Home";
+import Home from "./routes/Home.js";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import About from "./routes/About";
-import Service from "./routes/Service";
-import Contact from "./routes/Contact";
-import Hero from "./components/Hero"
+import About from "./routes/About.js";
+import Service from "./routes/Service.js";
+import Contact from "./routes/Contact.js";
 function App() {
   return (
     <div className="App">

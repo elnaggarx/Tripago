@@ -1,5 +1,5 @@
 import React from "react";
-import TripCard from "./TripCards";
+import TripCard from "./TripCards.jsx";
 import "./RecentTripsStyles.css";
 import image1 from "../assets/5.jpg";
 import image2 from "../assets/14.jpg";

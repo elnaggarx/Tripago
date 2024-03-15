@@ -1,9 +1,9 @@
 import React from "react";
-import Hero from "../components/Hero";
+import Hero from "../components/Hero.jsx";
 import image from "../assets/9.jpg"
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
-import RecentTrips from "../components/RecentTrips";
+import Navbar from "../components/Navbar.jsx";
+import Footer from "../components/Footer.jsx";
+import RecentTrips from "../components/RecentTrips.jsx";
 function Service(){
     return <div>
         <Navbar></Navbar>

@@ -15,9 +15,9 @@ import image11 from "../assets/21.jpg";
 import image12 from "../assets/22.jpg";
 import image13 from "../assets/23.jpg";
 
-import Destination from "../components/Destination";
-import RecentTrips from "../components/RecentTrips";
-import Footer from "../components/Footer";
+import Destination from "../components/Destination.jsx";
+import RecentTrips from "../components/RecentTrips.jsx";
+import Footer from "../components/Footer.jsx";
 function Home(){
     return <div>
        <Navbar></Navbar>

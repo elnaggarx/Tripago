@@ -1,9 +1,9 @@
 import React from "react";
-import Hero from "../components/Hero";
+import Hero from "../components/Hero.jsx";
 import image from "../assets/5.jpg"
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
-import ContactForm from "../components/ContactForm";
+import Navbar from "../components/Navbar.jsx";
+import Footer from "../components/Footer.jsx";
+import ContactForm from "../components/ContactForm.jsx";
 function Contact(){
     return <div>
         <Navbar></Navbar>

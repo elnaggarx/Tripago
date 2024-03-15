@@ -1,6 +1,6 @@
 import React,{useState} from "react";
 import "./NavbarStyles.css";
-import MenuItem from "./MenuItem";
+import MenuItem from "./MenuItem.jsx";
 import MenuIcon from '@mui/icons-material/Menu';
 import CancelIcon from '@mui/icons-material/Cancel';
 function Navbar(){
