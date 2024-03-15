@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tripago/static/css/main.79fb0514.css",
-    "main.js": "/tripago/static/js/main.c628b5c6.js",
+    "main.css": "/tripago/static/css/main.1ac85ca3.css",
+    "main.js": "/tripago/static/js/main.a8895bad.js",
     "static/media/24.jpg": "/tripago/static/media/24.52fc0e49fb81ca7872a3.jpg",
     "static/media/16.jpg": "/tripago/static/media/16.3e5a71fe7c59675fcb37.jpg",
     "static/media/17.jpg": "/tripago/static/media/17.9533aa90accde197bf1d.jpg",
@@ -22,11 +22,11 @@
     "static/media/6.jpg": "/tripago/static/media/6.c98c0c379b221b19a020.jpg",
     "static/media/21.jpg": "/tripago/static/media/21.f81a5b9a029fff9e5940.jpg",
     "index.html": "/tripago/index.html",
-    "main.79fb0514.css.map": "/tripago/static/css/main.79fb0514.css.map",
-    "main.c628b5c6.js.map": "/tripago/static/js/main.c628b5c6.js.map"
+    "main.1ac85ca3.css.map": "/tripago/static/css/main.1ac85ca3.css.map",
+    "main.a8895bad.js.map": "/tripago/static/js/main.a8895bad.js.map"
   },
   "entrypoints": [
-    "static/css/main.79fb0514.css",
-    "static/js/main.c628b5c6.js"
+    "static/css/main.1ac85ca3.css",
+    "static/js/main.a8895bad.js"
   ]
 }
