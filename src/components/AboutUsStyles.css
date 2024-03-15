@@ -1,0 +1,23 @@
+.about-us{
+    position: absolute;
+    top:80%;
+    text-align: left;
+    margin-left: 50px;
+    width: 88%;
+    z-index: -99;
+}
+h1{
+    margin-bottom: 20px;
+}
+p{
+    margin-bottom: 20px;
+}
+@media screen and (max-width:850px){
+    .about-us{
+        position: absolute;
+        top:80%;
+        text-align: center;
+        margin-left: 20px;
+        width: 88%;
+    }
+}

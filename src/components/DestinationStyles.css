@@ -1,0 +1,126 @@
+.destination1{
+    position: absolute;
+    top:115%;
+ 
+    
+}
+.destination2{
+    position: absolute;
+    top:245%; 
+}
+.destination3{
+    position: absolute;
+    top:375%; 
+}
+.destination4{
+    position: absolute;
+    top:505%;
+}
+.destination5{
+    position: absolute;
+    top:635%;
+}
+.destination6{
+    position: absolute;
+    top:765%;
+}
+.destinations-main-text{
+    position: relative;
+    text-align: center;
+    margin-bottom: 120px;
+    
+}
+.destinations-main-text h1{
+    font-size: 3.7rem;
+}
+.destination-item{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.destination-item-reversed{
+    position: relative;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+
+}
+.destination-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 35%;
+    position: relative;
+    row-gap: 3rem;
+}
+.destination-text h1{
+    font-size: 2.4rem;
+    font-weight: 700;
+}
+.destination-image img{
+    width: 40%;
+    height: 80vh;
+    position: relative;
+    border-radius: 17px;
+    box-shadow: -1px 1px 62px -18px rgba(0,0,0,0.19);
+    margin: 0 3px;
+}
+.destination-image{
+    position: relative;
+    right:-5%;
+    width: 50%;
+    
+    
+}
+.right-side-image{
+    position: relative;
+    top:-10%;
+}
+@media screen and (max-width:850px){
+    .destination-item{
+        position: relative;
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .destination-item-reversed{
+        position: relative;
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .destination-text{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 70%;
+        position: relative;
+        row-gap: 1rem;
+    }
+    .destination-text p{
+        font-size: 0.8rem;
+    }
+    .destination-image img{
+        width: 48%;
+        height: 60vh;
+        position: relative;
+        border-radius: 17px;
+        box-shadow: -1px 1px 62px -18px rgba(0,0,0,0.19);
+        margin: 0 2px;
+    }
+    .destination-image{
+        position: relative;
+        width: 70%;
+        right:0;
+        margin-bottom: 20px;
+    }
+    
+}
